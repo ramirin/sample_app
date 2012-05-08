@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'heroku'
 gem 'rails', '3.2.3'
 
 group :development, :test do
